@@ -1,0 +1,25 @@
+{
+  "name": "code-challenge",
+  "version": "1.0.0",
+  "description": "week1-code-challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "node start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njokichristine/week1-code-challenge.git"
+  },
+  "keywords": [
+    "salary",
+    "score",
+    "speed",
+    "netSalary"
+  ],
+  "author": "Christine Njoki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/njokichristine/week1-code-challenge/issues"
+  },
+  "homepage": "https://github.com/njokichristine/week1-code-challenge#readme"
+}
